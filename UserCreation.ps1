@@ -1,6 +1,6 @@
 #User Creation
 #written by Chris Renshaw
-#started on 1/17/2017
+#uploaded to gethub on 1/17/2017
 #TAGS User,Creation,AD
 #UNIVERSAL
 
